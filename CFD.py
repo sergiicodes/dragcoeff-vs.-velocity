@@ -30,12 +30,12 @@ print(f'The parameters of the line: {theta}')
 # Now, calculating the y-axis values against x-values according to
 # the parameters
 y_line = theta[1] + theta[0] * velocity
-
-
 correlation_matrix = np.corrcoef(velocity, dragcoefficient)
 correlation_xy = correlation_matrix[0,1]
+
+# Computes the coefficient of determination based on lines 35-37
 r_squared = correlation_xy**2
-print(f'The parameters of the line: {theta}')
+print(f'The coefficient of determination, or the R squared is: {r_squared}')
 
 
 # Plotting the data points and the best fit line
