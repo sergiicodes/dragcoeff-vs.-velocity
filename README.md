@@ -29,7 +29,9 @@ The results from the CFD analysis indicated a decrease in the drag coefficient w
 The flow field analysis of the default design revealed aerodynamic inefficiencies, particularly due to the SUV's boxy and bulky front geometry. 
 
 
-![image](https://github.com/sergiicodes/dragcoeff-vs.-velocity/assets/79073281/9b34694f-217a-4e31-8bb2-a81aafeed2d8)
+![image](https://github.com/sergiicodes/dragcoeff-vs.-velocity/assets/79073281/85d61e32-561d-4acc-b79f-ee3075435b83)
+
+
 The optimized design achieved a significant reduction in the drag coefficient, from 1.45 to 0.22, outperforming the Toyota RAV4's coefficient of 0.31. 
 The plot of vehicle velocity against drag coefficient showed a strong inverse correlation, with an R^2 value of 0.95753, indicating a robust relationship between the two variables.
 
