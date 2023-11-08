@@ -20,15 +20,7 @@ The procedure involved three key steps:
 1. **Grid Size Effect Analysis**: Mesh sizes were iteratively reduced from 0.5m to 0.125m to observe the impact on the drag coefficient.
 2. **Flow Field Analysis**: The default SUV design was analyzed for aerodynamic efficiency by examining pressure and velocity flows.
 3. **Design Optimization**: The SUV's design was modified to emulate low-drag coefficient models, aiming to reduce the front-hitting drag force.
-
----
-
-### Procedure
-The following procedure was used to optimize the aerodynamics of the SUV:
-
-1. Default design analysis: The flow field around the default design of the SUV was analyzed using CFD, and the drag coefficient was calculated.
-2. Optimization: The SUV's design was optimized using a teardrop shape, which was modeled using SolidWorks software. The optimized design was then analyzed using CFD, and the drag coefficient was calculated.
-3. Comparison: The drag coefficient of the optimized design was compared to other SUVs on the market.
+4. **Comparison**: The drag coefficient of the optimized design was compared to other SUVs on the market.
 
 ---
 
